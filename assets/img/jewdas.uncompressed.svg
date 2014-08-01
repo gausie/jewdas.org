@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="141.51637"
+   height="50.179996"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="jewdas.svg">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview19"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.1338028"
+     inkscape:cx="86.328813"
+     inkscape:cy="25.179999"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       x="-0.15000001"
+       y="-0.15000001"
+       width="1.3"
+       height="1.3"
+       color-interpolation-filters="sRGB"
+       id="filter3361">
+      <feFlood
+         result="flood"
+         flood-color="rgb(255,0,0)"
+         flood-opacity="1"
+         id="feFlood3363" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite3365" />
+      <feOffset
+         result="offset"
+         dy="1.5"
+         dx="2"
+         id="feOffset3367" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feComposite3369" />
+      <feColorMatrix
+         id="feColorMatrix4315"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feTurbulence
+         result="result4"
+         seed="99"
+         numOctaves="8"
+         baseFrequency="0.015596330275229359"
+         type="fractalNoise"
+         id="feTurbulence4317" />
+      <feDisplacementMap
+         in2="result4"
+         scale="10"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         in="fbSourceGraphic"
+         result="result3"
+         id="feDisplacementMap4319" />
+      <feDiffuseLighting
+         in="result4"
+         result="result1"
+         surfaceScale="2"
+         diffuseConstant="1"
+         lighting-color="#e9e6d7"
+         id="feDiffuseLighting4321">
+        <feDistantLight
+           elevation="40"
+           azimuth="235"
+           id="feDistantLight4323" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result1"
+         operator="in"
+         in="result3"
+         result="result2"
+         id="feComposite4325" />
+      <feComposite
+         in2="result1"
+         operator="arithmetic"
+         k1="1.7"
+         k2="0"
+         k3="0"
+         k4="0"
+         result="result5"
+         id="feComposite4327" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         in="result5"
+         id="feBlend4329" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(15.328813,-6.9737416e-7)">
+    <text
+       x="2"
+       y="34.189999"
+       id="text1"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;filter:url(#filter3361);font-family:Minion Pro;-inkscape-font-specification:Minion Pro Medium">jewdas</text>
+  </g>
+</svg>

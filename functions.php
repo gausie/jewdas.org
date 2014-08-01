@@ -32,3 +32,7 @@ foreach ($roots_includes as $file) {
   require_once $filepath;
 }
 unset($file, $filepath);
+
+register_nav_menus(array(
+    'footer_navigation' => __('Footer Navigation', 'roots')
+  ));
