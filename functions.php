@@ -33,6 +33,10 @@ foreach ($roots_includes as $file) {
 }
 unset($file, $filepath);
 
+// Custon Jewdas stuff
+
 register_nav_menus(array(
-    'footer_navigation' => __('Footer Navigation', 'roots')
-  ));
+  'footer_navigation' => __('Footer Navigation', 'roots')
+));
+
+add_filter( 'storm_social_icons_size', create_function( '', 'return "normal";' ) );
